@@ -37,7 +37,6 @@ See `wiring.pdf` for the full pinout and wiring diagram reference.
 | Function | Mega Pin |
 |---|---|
 | RTI display TX1 → display RX | 18 |
-| RTI display RX1 ← display TX | 19 |
 | Open/Close switch | 5 |
 | Encoder CLK | 2 |
 | Encoder DT | 3 |
